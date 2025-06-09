@@ -4,7 +4,7 @@ Este projeto é um chat em tempo real onde múltiplos usuários podem interagir 
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas:
 
 - Java 17
 - Spring Boot
